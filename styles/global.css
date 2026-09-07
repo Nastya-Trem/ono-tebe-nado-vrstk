@@ -33,9 +33,7 @@ img {
   width: 100%;
 }
 
-ul,
-li {
-  margin: 0;
-  padding: 0;
-  list-style: none; 
+li,
+ul {
+  list-style: none;
 }
